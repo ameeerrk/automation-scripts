@@ -1,2 +1,1 @@
-# automation-scripts
-A collection of different languages automation scripts I've developed to solve real-world problems and improve workflow efficiency.
+A collection of automation scripts in AHK, PowerShell, Python, Batch, VBScript, and Power Automate. Personal workflow tools and productivity experiments.
